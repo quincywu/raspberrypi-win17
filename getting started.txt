@@ -1,0 +1,28 @@
+﻿important Linux command
+- sudo halt (halt the linux system before unplug power)
+- sudo startx (restart)
+- sudo raspi −config (use this to turn into headless embedded device)
+- sudo apt-get clean
+- df -h (checking enough disk space free)
+- dmesg | more (all the devices available on the target hardware)
+
+- sudo nano / etc /hostname (change hostname)
+	sudo nano / etc /hostname (reboot to activate)
+	
+- ifconfig (get the ip address and ssh into pi)
+
+- setting static ip address
+	- sudo nano /etc/dhcpcd.conf
+		interface eth0
+
+		static ip_address=192.168.0.10/24
+		static routers=192.168.0.1
+		static domain_name_servers=192.168.0.1
+
+		interface wlan0
+
+		static ip_address=192.168.0.200/24
+		static routers=192.168.0.1
+		static domain_name_servers=192.168.0.1
+
+- get/ put
