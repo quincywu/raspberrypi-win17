@@ -39,3 +39,13 @@ http://raspberrypi.stackexchange.com/questions/29561/softpwm-of-wiringpi-for-ser
 
 http://raspberrypi.stackexchange.com/questions/26688/pi-b-as-a-24v-motor-controller-code-written-in-cmono-power-concerns
 
+http://www.greyfuzz.com/raspberry-pi-disk-access-speeds/
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=60054&p=448954
+
+https://www.reddit.com/r/raspberry_pi/comments/4a679u/raspberry_pi_3_sd_card_io_performance/
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=144493
+
+https://learn.sparkfun.com/tutorials/single-board-computer-benchmarks/round-1
+
