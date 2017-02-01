@@ -47,5 +47,5 @@ https://www.reddit.com/r/raspberry_pi/comments/4a679u/raspberry_pi_3_sd_card_io_
 
 https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=144493
 
-https://learn.sparkfun.com/tutorials/single-board-computer-benchmarks/round-1
+
 
