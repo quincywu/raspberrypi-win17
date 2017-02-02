@@ -49,3 +49,5 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=144493
 
 
 
+GNU gprof output – flat profile
+
