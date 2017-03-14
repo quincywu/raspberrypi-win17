@@ -1,0 +1,15 @@
+2017-03-09 01:32:44.884 INFO - Using data dir '/home/pi/Blynk'
+2017-03-09 01:32:46.588 INFO - Region : local
+2017-03-09 01:32:49.133 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+2017-03-09 01:32:50.455 WARN - ATTENTION. Certificate /home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux and key /home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux paths not valid. Using embedded certs. This is not secure. Please replace it with your own certs.
+2017-03-09 01:32:51.818 WARN - ATTENTION. Server certificate paths cert : '/home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux', key : '/home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux' - not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+2017-03-09 01:32:53.768 WARN - ATTENTION. Certificate /home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux and key /home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux paths not valid. Using embedded certs. This is not secure. Please replace it with your own certs.
+2017-03-09 01:32:54.589 WARN - ATTENTION. Certificate /home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux and key /home/pi/Documents/final_proj/Blynk_Release_v0.4.6/libraries/Blynk/linux paths not valid. Using embedded certs. This is not secure. Please replace it with your own certs.
+2017-03-09 01:32:56.163 INFO - Hardware plain tcp/ip server listening at 8442 port.
+2017-03-09 01:32:56.168 INFO - Hardware SSL server listening at 8441 port.
+2017-03-09 01:32:56.170 INFO - Application server listening at 8443 port.
+2017-03-09 01:32:56.172 INFO - HTTP API and WebSockets server listening at 8080 port.
+2017-03-09 01:32:56.175 INFO - HTTPS API and WebSockets server listening at 9443 port.
+2017-03-09 01:32:56.177 INFO - HTTPS Admin UI server listening at 7443 port.
+2017-03-09 01:32:56.179 INFO - Mqtt hardware server listening at 8440 port.
+2017-03-09 01:32:58.980 INFO - quincywu@quincywu.net Blynk-app joined.
