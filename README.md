@@ -44,6 +44,35 @@ left 1ms pulse, 1/20 = 50/1000 Using 49
 right 2ms pulse, 2/20 = 100/1000 Using 99
 140, 30, 85
 
+gcc -D defines a macro to be used by the preprocessor.
+$ gcc -Dname [options] [source files] [-o output file]
+
+// myfile.c
+#include <stdio.h>
+ 
+void main()
+{
+    #ifdef DEBUG    
+       printf("Debug run\n");
+    #else
+       printf("Release run\n");
+    #endif
+}
+
+$ gcc -D DEBUG myfile.c -o myfile
+$ ./myfile
+Debug run
+$
+
+POWER management off
+Rebooting the Raspberry Pi when it loses wireless connection
+http://weworkweplay.com/play/rebooting-the-raspberry-pi-when-it-loses-wireless-connection-wifi/
+
+crontab
+http://raspberrypituts.com/raspberry-pi-simple-cron-jobs-explanation/
+@reboot python /home/pi/myscript.py &
+
+sudo chown root abc.sh
 chmod u+s comphope.txt
 Set the "Set-User-ID" bit of comphope.txt, so that anyone who attempts to access that file does so as if they are the owner of the file.
 
